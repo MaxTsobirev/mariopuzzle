@@ -1,0 +1,23 @@
+.tableBox {
+    display: table;
+}
+
+.levo {
+    background: #16a548;
+    color: #fff;
+    display: table-cell;
+    padding: 10px;
+    vertical-align: middle;
+    width: 40%;
+}
+
+.center {
+    background: #437153;
+    font-size: 20px;
+    text-align: center;
+    width: 30%;
+}
+
+.pravo {
+    border-left: 1px solid #5fc583;
+}
